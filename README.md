@@ -2,7 +2,6 @@
 The Weather App is a dynamic, real-time web application designed to provide comprehensive weather updates for any location worldwide. It integrates with a reliable weather API to deliver current weather conditions, including temperature, humidity and wind speed, allowing users to plan ahead.
 
 Key features include:
-
 Location Search: Users can search by city or use their current location for instant weather updates.
 Real-Time Data: The app displays live weather information, automatically updating to reflect the latest conditions.
 User-Friendly Interface: The interface is designed to be clean and intuitive, ensuring a seamless user experience.
